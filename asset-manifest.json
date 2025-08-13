@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skyfly-airline-booking/static/css/main.f87e0aa9.css",
-    "main.js": "/skyfly-airline-booking/static/js/main.ca2a9c0c.js",
+    "main.js": "/skyfly-airline-booking/static/js/main.03b0b16d.js",
     "index.html": "/skyfly-airline-booking/index.html",
     "main.f87e0aa9.css.map": "/skyfly-airline-booking/static/css/main.f87e0aa9.css.map",
-    "main.ca2a9c0c.js.map": "/skyfly-airline-booking/static/js/main.ca2a9c0c.js.map"
+    "main.03b0b16d.js.map": "/skyfly-airline-booking/static/js/main.03b0b16d.js.map"
   },
   "entrypoints": [
     "static/css/main.f87e0aa9.css",
-    "static/js/main.ca2a9c0c.js"
+    "static/js/main.03b0b16d.js"
   ]
 }
