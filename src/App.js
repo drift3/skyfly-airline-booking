@@ -12,12 +12,14 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackgroundElements from './components/BackgroundElements';
 import ScrollProgress from './components/ScrollProgress';
+import WelcomeOverlay from './components/WelcomeOverlay';
 import { ToastManager } from './components/Toast';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/skyfly-airline-booking">
       <div className="App relative min-h-screen bg-gradient-to-br from-slate-50 to-blue-50 overflow-x-hidden">
+        <WelcomeOverlay />
         <ScrollProgress />
         <BackgroundElements />
         <Navbar />

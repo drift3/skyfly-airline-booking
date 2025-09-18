@@ -26,21 +26,21 @@ const Contact = () => {
     {
       icon: FiPhone,
       title: '24/7 Customer Support',
-      details: '+1 (555) 123-4567',
+      details: '+201020647876',
       description: 'Available round the clock for your assistance',
       color: 'bg-primary-100 text-primary-600'
     },
     {
       icon: FiMail,
       title: 'Email Support',
-      details: 'support@skyfly.com',
+      details: 'a.fwork66@gmail.com',
       description: 'Get detailed responses within 2 hours',
       color: 'bg-accent-100 text-accent-600'
     },
     {
       icon: FiMapPin,
       title: 'Headquarters',
-      details: '123 Aviation Blvd, Sky City',
+      details: 'Egypt, Mansoura City',
       description: 'Visit our main office for in-person support',
       color: 'bg-gold-100 text-gold-600'
     },

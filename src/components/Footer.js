@@ -56,9 +56,9 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: FiPhone, text: '+1 (555) 123-4567' },
-    { icon: FiMail, text: 'support@skyfly.com' },
-    { icon: FiMapPin, text: '123 Aviation Blvd, Sky City' }
+    { icon: FiPhone, text: '+201020647876' },
+    { icon: FiMail, text: 'a.fwork66@gmail.com' },
+    { icon: FiMapPin, text: 'Egypt, Mansoura City' }
   ];
 
   return (
